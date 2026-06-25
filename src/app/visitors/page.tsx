@@ -58,7 +58,7 @@ export default function VisitorsPage() {
             <span className="text-white/25">/</span>
             <span className="font-mulish text-white/60 text-sm">Посетителям</span>
           </div>
-          <span className="font-manrope font-bold text-[11px] text-nb-green uppercase tracking-[3px] mb-4 block">
+          <span className="font-manrope font-bold text-[13px] text-nb-teal uppercase tracking-[3px] mb-4 block">
             Посетителям
           </span>
           <h1 className="font-manrope font-extrabold text-white leading-tight mb-6"
@@ -102,7 +102,7 @@ export default function VisitorsPage() {
       {/* How it works */}
       <section className="py-20 bg-nb-bg-light">
         <div className="max-w-[1400px] mx-auto px-6 lg:px-10">
-          <span className="font-manrope font-bold text-[11px] text-nb-green uppercase tracking-[3px] mb-3 block">Как это работает</span>
+          <span className="font-manrope font-bold text-[13px] text-nb-teal uppercase tracking-[3px] mb-3 block">Как это работает</span>
           <h2 className="font-manrope font-extrabold text-nb-dark mb-14" style={{ fontSize: 'clamp(28px,4vw,48px)' }}>
             3 шага до выставки
           </h2>
@@ -121,7 +121,7 @@ export default function VisitorsPage() {
       {/* Tickets */}
       <section id="register" className="py-20 bg-white">
         <div className="max-w-[1400px] mx-auto px-6 lg:px-10">
-          <span className="font-manrope font-bold text-[11px] text-nb-green uppercase tracking-[3px] mb-3 block">Билеты</span>
+          <span className="font-manrope font-bold text-[13px] text-nb-teal uppercase tracking-[3px] mb-3 block">Билеты</span>
           <h2 className="font-manrope font-extrabold text-nb-dark mb-14" style={{ fontSize: 'clamp(28px,4vw,48px)' }}>
             Выберите формат участия
           </h2>
@@ -162,7 +162,7 @@ export default function VisitorsPage() {
         <div className="max-w-[1400px] mx-auto px-6 lg:px-10">
           <div className="grid lg:grid-cols-2 gap-16 items-center">
             <div>
-              <span className="font-manrope font-bold text-[11px] text-nb-green uppercase tracking-[3px] mb-3 block">Распорядок дня</span>
+              <span className="font-manrope font-bold text-[13px] text-nb-teal uppercase tracking-[3px] mb-3 block">Распорядок дня</span>
               <h2 className="font-manrope font-extrabold text-nb-dark mb-8" style={{ fontSize: 'clamp(28px,4vw,48px)' }}>
                 Каждый день выставки
               </h2>

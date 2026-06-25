@@ -21,7 +21,7 @@ export default function Partners() {
     <section className="py-16 bg-nb-bg-light border-y border-nb-border overflow-hidden">
       <div className="max-w-[1400px] mx-auto px-6 lg:px-10 mb-10">
         <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4">
-          <span className="font-manrope font-700 text-[11px] text-nb-muted uppercase tracking-[3px]">
+          <span className="font-manrope font-700 text-[13px] text-nb-teal uppercase tracking-[3px]">
             Генеральные партнёры и спонсоры
           </span>
           <a

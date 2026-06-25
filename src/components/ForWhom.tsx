@@ -33,7 +33,7 @@ export default function ForWhom() {
               className="absolute inset-0 pointer-events-none"
               style={{ background: 'radial-gradient(ellipse 80% 60% at 80% 20%, rgba(255,255,255,0.22) 0%, transparent 65%)' }}
             />
-            <span className="font-manrope font-700 text-[11px] uppercase tracking-[3px] mb-6" style={{ color: '#1a4a0a' }}>
+            <span className="font-manrope font-700 text-[13px] uppercase tracking-[3px] mb-6" style={{ color: '#00d2d0' }}>
               Посетителям
             </span>
             <h2 className="font-manrope font-800 text-[clamp(28px,3.5vw,42px)] leading-tight mb-4" style={{ color: '#0d2d06' }}>
@@ -66,7 +66,7 @@ export default function ForWhom() {
               className="absolute top-0 right-0 w-[280px] h-[280px] opacity-5 pointer-events-none"
               style={{ background: 'radial-gradient(circle, #E11B22 0%, transparent 70%)' }}
             />
-            <span className="font-manrope font-700 text-[11px] text-black/50 uppercase tracking-[3px] mb-6">
+            <span className="font-manrope font-700 text-[13px] text-nb-teal uppercase tracking-[3px] mb-6">
               Экспонентам
             </span>
             <h2 className="font-manrope font-800 text-[clamp(28px,3.5vw,42px)] text-black leading-tight mb-4">

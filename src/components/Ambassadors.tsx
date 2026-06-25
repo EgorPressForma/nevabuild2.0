@@ -185,7 +185,7 @@ export default function Ambassadors() {
       <div className="max-w-[1400px] mx-auto px-6 lg:px-10 mb-12">
         <div className="flex flex-col sm:flex-row sm:items-end justify-between gap-6">
           <div>
-            <span className="font-manrope font-700 text-[11px] text-nb-green uppercase tracking-[3px] mb-3 block">
+            <span className="font-manrope font-700 text-[13px] text-nb-teal uppercase tracking-[3px] mb-3 block">
               NevaBuild 2027
             </span>
             <h2

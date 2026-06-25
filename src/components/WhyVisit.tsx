@@ -44,7 +44,7 @@ export default function WhyVisit() {
 
           {/* Left sticky title */}
           <div className="lg:w-[340px] flex-shrink-0">
-            <span className="font-manrope font-700 text-[11px] uppercase tracking-[3px] mb-4 block text-white/70">
+            <span className="font-manrope font-700 text-[13px] uppercase tracking-[3px] mb-4 block text-nb-teal">
               Почему NevaBuild
             </span>
             <h2 className="font-manrope font-800 text-[clamp(32px,4vw,52px)] leading-tight mb-6 text-white">

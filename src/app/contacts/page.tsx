@@ -54,7 +54,7 @@ export default function ContactsPage() {
             <span className="text-white/25">/</span>
             <span className="font-mulish text-white/60 text-sm">Контакты</span>
           </div>
-          <span className="font-manrope font-bold text-[11px] text-nb-green uppercase tracking-[3px] mb-4 block">
+          <span className="font-manrope font-bold text-[13px] text-nb-teal uppercase tracking-[3px] mb-4 block">
             Контакты
           </span>
           <h1 className="font-manrope font-extrabold text-white leading-tight mb-6"
@@ -142,7 +142,7 @@ export default function ContactsPage() {
       {/* Form */}
       <section className="py-20 bg-white">
         <div className="max-w-[720px] mx-auto px-6 lg:px-10">
-          <span className="font-manrope font-bold text-[11px] text-nb-green uppercase tracking-[3px] mb-3 block">Напишите нам</span>
+          <span className="font-manrope font-bold text-[13px] text-nb-teal uppercase tracking-[3px] mb-3 block">Напишите нам</span>
           <h2 className="font-manrope font-extrabold text-nb-dark mb-10" style={{ fontSize: 'clamp(28px,4vw,44px)' }}>
             Форма обратной связи
           </h2>
