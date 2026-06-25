@@ -73,7 +73,7 @@ export default function ProgramPage() {
             <span className="text-white/25">/</span>
             <span className="font-mulish text-white/60 text-sm">Деловая программа</span>
           </div>
-          <span className="font-manrope font-bold text-[11px] text-nb-green uppercase tracking-[3px] mb-4 block">
+          <span className="font-manrope font-bold text-[13px] text-nb-teal uppercase tracking-[3px] mb-4 block">
             Деловая программа
           </span>
           <h1 className="font-manrope font-extrabold text-white leading-tight mb-6"

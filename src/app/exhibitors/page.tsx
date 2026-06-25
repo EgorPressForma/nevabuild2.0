@@ -51,7 +51,7 @@ export default function ExhibitorsPage() {
             <span className="text-white/25">/</span>
             <span className="font-mulish text-white/60 text-sm">Экспонентам</span>
           </div>
-          <span className="font-manrope font-bold text-[11px] text-nb-red uppercase tracking-[3px] mb-4 block">
+          <span className="font-manrope font-bold text-[13px] text-nb-teal uppercase tracking-[3px] mb-4 block">
             Экспонентам
           </span>
           <h1 className="font-manrope font-extrabold text-white leading-tight mb-6"
@@ -79,7 +79,7 @@ export default function ExhibitorsPage() {
       {/* Benefits */}
       <section id="benefits" className="py-20 bg-white">
         <div className="max-w-[1400px] mx-auto px-6 lg:px-10">
-          <span className="font-manrope font-bold text-[11px] text-nb-green uppercase tracking-[3px] mb-3 block">Преимущества</span>
+          <span className="font-manrope font-bold text-[13px] text-nb-teal uppercase tracking-[3px] mb-3 block">Преимущества</span>
           <h2 className="font-manrope font-extrabold text-nb-dark mb-14" style={{ fontSize: 'clamp(28px,4vw,48px)' }}>
             Зачем участвовать
           </h2>
@@ -98,7 +98,7 @@ export default function ExhibitorsPage() {
       {/* Packages */}
       <section id="packages" className="py-20 bg-nb-bg-light">
         <div className="max-w-[1400px] mx-auto px-6 lg:px-10">
-          <span className="font-manrope font-bold text-[11px] text-nb-green uppercase tracking-[3px] mb-3 block">Пакеты участия</span>
+          <span className="font-manrope font-bold text-[13px] text-nb-teal uppercase tracking-[3px] mb-3 block">Пакеты участия</span>
           <h2 className="font-manrope font-extrabold text-nb-dark mb-14" style={{ fontSize: 'clamp(28px,4vw,48px)' }}>
             Выберите формат стенда
           </h2>

@@ -38,7 +38,7 @@ export default function AboutPage() {
             <span className="text-white/25">/</span>
             <span className="font-mulish text-white/60 text-sm">О выставке</span>
           </div>
-          <span className="font-manrope font-bold text-[11px] text-nb-green uppercase tracking-[3px] mb-4 block">
+          <span className="font-manrope font-bold text-[13px] text-nb-teal uppercase tracking-[3px] mb-4 block">
             О выставке
           </span>
           <h1 className="font-manrope font-extrabold text-white leading-tight mb-6"
@@ -72,7 +72,7 @@ export default function AboutPage() {
         <div className="max-w-[1400px] mx-auto px-6 lg:px-10">
           <div className="grid lg:grid-cols-2 gap-16 items-center">
             <div>
-              <span className="font-manrope font-bold text-[11px] text-nb-green uppercase tracking-[3px] mb-3 block">Миссия</span>
+              <span className="font-manrope font-bold text-[13px] text-nb-teal uppercase tracking-[3px] mb-3 block">Миссия</span>
               <h2 className="font-manrope font-extrabold text-nb-dark mb-6" style={{ fontSize: 'clamp(28px,4vw,48px)' }}>
                 Площадка для роста отрасли
               </h2>
@@ -114,7 +114,7 @@ export default function AboutPage() {
       {/* Timeline */}
       <section className="py-20 bg-nb-bg-light">
         <div className="max-w-[1400px] mx-auto px-6 lg:px-10">
-          <span className="font-manrope font-bold text-[11px] text-nb-green uppercase tracking-[3px] mb-3 block">История</span>
+          <span className="font-manrope font-bold text-[13px] text-nb-teal uppercase tracking-[3px] mb-3 block">История</span>
           <h2 className="font-manrope font-extrabold text-nb-dark mb-14" style={{ fontSize: 'clamp(28px,4vw,48px)' }}>
             Вехи NevaBuild
           </h2>
@@ -133,7 +133,7 @@ export default function AboutPage() {
       {/* Organizers */}
       <section className="py-20 bg-white">
         <div className="max-w-[1400px] mx-auto px-6 lg:px-10">
-          <span className="font-manrope font-bold text-[11px] text-nb-green uppercase tracking-[3px] mb-3 block">Организаторы</span>
+          <span className="font-manrope font-bold text-[13px] text-nb-teal uppercase tracking-[3px] mb-3 block">Организаторы</span>
           <h2 className="font-manrope font-extrabold text-nb-dark mb-10" style={{ fontSize: 'clamp(28px,4vw,48px)' }}>
             Кто стоит за выставкой
           </h2>

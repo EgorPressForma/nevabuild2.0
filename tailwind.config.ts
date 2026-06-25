@@ -19,6 +19,8 @@ const config: Config = {
           'green-muted':'#5FE0A2',
           lime:        '#a9ec46',
           'lime-dark': '#8dd62e',
+          teal:        '#00d2d0',
+          'teal-dark': '#00b0ae',
           red:         '#E11B22',
           'red-dark':  '#C01018',
           'bg-light':  '#F4FAF6',

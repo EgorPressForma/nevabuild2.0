@@ -31,7 +31,7 @@ export default function News() {
 
         <div className="flex flex-col sm:flex-row sm:items-end justify-between gap-6 mb-14">
           <div>
-            <span className="font-manrope font-700 text-[11px] text-nb-green uppercase tracking-[3px] mb-3 block">
+            <span className="font-manrope font-700 text-[13px] text-nb-teal uppercase tracking-[3px] mb-3 block">
               Новости
             </span>
             <h2 className="font-manrope font-800 text-[clamp(30px,4vw,50px)] text-nb-dark leading-tight">
